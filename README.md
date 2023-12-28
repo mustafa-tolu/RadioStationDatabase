@@ -3,10 +3,11 @@
 Bu repo Türkiye için özelleştirilmiş radyo istasyonları veritabanını içerir. Bu veritabanı bazı VAG (Volkswagen-Audi Group) otomobillerde de kullanılmaktadır. Veritabanında özellikle İç Anadolu bölgesi için derleme ve düzenlemeler yapılmıştır. Yeni veriler elde edildikçe veritabanı güncellenecektir. 
   
   
+Yükleme adımları araç modeline göre değişiklik gösterebilir. Veritabanını kullanmak istediğiniz araç modeline uygun şekilde yükleyiniz ve gerekli sorumlulukları kendiniz alınız. Hatalı işlemlerden bu reponun sahibi sorumlu değildir.
   
 --------------------------------------
 TİCARİ KULLANIMA İZİN VE RIZA VERİLMEZ. Yapılan lisanslama kapsamında;  
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
   
 Bunları yapmakta özgürsünüz:  
 Paylaş — eseri her ortam veya formatta kopyalayabilir ve yeniden dağıtabilirsiniz.  
